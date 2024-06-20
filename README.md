@@ -47,7 +47,9 @@
 ![JAVA](https://img.shields.io/badge/-PHP-000?&logo=Java)
 ### Frontend development:
 &emsp;
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJs](https://img.shields.io/badge/-Next-000?&logo=Next)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
